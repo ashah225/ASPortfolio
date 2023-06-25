@@ -2,6 +2,6 @@
 
 <h2> PowerbI Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- <b> </b>
  
 
