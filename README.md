@@ -26,3 +26,10 @@
 <b>Stamp selling python Project </b>
  
    - https://github.com/as03star/python-projects/blob/main/stamp_selling-Python-Project.pdf
+   
+   
+   <h2> R-Rshiny Projects: </h2>
+
+   </b> World-Happiness Score Project </b>
+   
+   - https://github.com/as03star/R-RShiny-Projects/blob/main/World-Happiness-app-R.pdf
