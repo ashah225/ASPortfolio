@@ -13,5 +13,5 @@
   <b> data auditing project </b>
   - https://github.com/as03star/data-wrangling/blob/main/data-auditing.pdf
 
-<h2> Database and Data Warehouse </h2>
+<h2> Database and Data Warehouse Projects: </h2>
   - https://github.com/as03star/database-datawarehouse/blob/main/data-warehouse-project.pdf
