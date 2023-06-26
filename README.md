@@ -19,4 +19,4 @@
 
 <h2> Python Projects: </h2>
    <b>Stamp selling python Project </b>
-  - https://github.com/as03star/python-projects/blob/main/stamp_selling-Python-Project.pdf
+   - https://github.com/as03star/python-projects/blob/main/stamp_selling-Python-Project.pdf
